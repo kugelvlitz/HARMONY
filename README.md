@@ -1,4 +1,6 @@
-# Introducing HARMONY!
+# Harmony
+
+## What
 
 HARMONY is personal project aimed at building a comprehensive python library containing
 
